@@ -1,5 +1,7 @@
 # 🏋️ Gym Check-in System
 
+![alt text](image.png)
+
 QR 코드를 이용한 체력단련실 출입 관리 시스템입니다.
 Python (Tkinter) 기반 GUI와 MS Access 데이터베이스를 사용하여 출입 기록을 관리합니다.
 
