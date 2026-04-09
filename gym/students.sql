@@ -1,0 +1,7 @@
+CREATE TABLE students (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    학번 VARCHAR(100),
+    이름 VARCHAR(100),
+    대학 VARCHAR(100),
+    학과 VARCHAR(100)
+);
